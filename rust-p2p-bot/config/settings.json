@@ -1,0 +1,37 @@
+{
+    "trading": {
+        "min_price": 0.50,
+        "max_price": 3.00,
+        "min_spread_percent": 10,
+        "check_interval_seconds": 30,
+        "auto_mode": true,
+        "game": "Rust",
+        "currency": "USD"
+    },
+    "steam": {
+        "mafile_path": "../SDA.1.0.15/maFiles/76561199113719186.maFile",
+        "confirmation_check_interval": 5,
+        "steam_api_key": "A1212401D06E9D87970B68F57BDA259",
+        "username": "mz1r0y0viv2blnxo",
+        "password": "KCCcvaUXvQ7159escge6"
+    },
+    "pulse": {
+        "api_key": "btpx0x70uq4tqqouw82zsgo4th8bbvc2",
+        "base_url": "https://api-pulse.tradeon.space",
+        "max_tokens_per_day": 500
+    },
+    "dmarket": {
+        "public_key": "29e8f8de3f4c9fd27a372b310935f1894ed2f649076308b4a65e209c8a920463",
+        "private_key": "117a339181a1a7e2beaee49b6a82b38ad022461fa4cf7cea60b9f30d068978c429e8f8de3f4c9fd27a372b310935f1894ed2f649076308b4a65e209c8a920463",
+        "base_url": "https://api.dmarket.com"
+    },
+    "telegram": {
+        "bot_token": "8441168945:AAFjcsas9wObkYwh2TQhLaekj5agix2aBCk",
+        "admin_chat_id": null
+    },
+    "markets": {
+        "lootfarm_json_url": "https://loot.farm/fullpriceRUST.json",
+        "tradeit_url": "https://tradeit.gg/ru/rust/trade",
+        "lootfarm_url": "https://loot.farm/ru/index.html"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "shared_secret": "4jPw7S9tfkaHtrxiGEQAQtMAPv0=",
+    "serial_number": "8725486627788557996",
+    "revocation_code": "R42183",
+    "uri": "otpauth://totp/Steam:mz1r0y0viv2blnxo?secret=4IZ7B3JPNV7ENB5WXRRBQRAAILJQAPX5&issuer=Steam",
+    "server_time": 1643362916,
+    "account_name": "mz1r0y0viv2blnxo",
+    "token_gid": "40ee01b8babee937",
+    "identity_secret": "OXVdKtNH+SnnTjYycJU/n47O1Wk=",
+    "secret_1": "SEgudF8O5wmtt3TDNcUgc+QwS1U=",
+    "status": 1,
+    "device_id": "android:8f86487a-e48b-4bab-b5a0-93cd9e53e840",
+    "fully_enrolled": true,
+    "steam_id": 76561199113719186
+}
